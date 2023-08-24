@@ -1,11 +1,9 @@
 package post_requests;
 
 import base_urls.JsonPlaceHolderBaseUrl;
-import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.junit.Test;
-import test_data.JsonPlaceHolderTestData;
 
 import java.util.HashMap;
 import java.util.Map;

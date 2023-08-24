@@ -1,8 +1,8 @@
 package post_requests;
 
-import Pojos.BookingDatesPojo;
-import Pojos.BookingPojo;
-import Pojos.BookingResponsePojo;
+import pojos.BookingDatesPojo;
+import pojos.BookingPojo;
+import pojos.BookingResponsePojo;
 import base_urls.HerokuAppBaseUrl;
 import io.restassured.response.Response;
 import org.junit.Test;

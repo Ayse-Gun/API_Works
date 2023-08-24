@@ -1,9 +1,7 @@
 package get_requests;
 
-import Pojos.BookingDatesPojo;
-import Pojos.BookingPojo;
-import Pojos.GoRestDataPojo;
-import Pojos.GoRestPojo;
+import pojos.GoRestDataPojo;
+import pojos.GoRestPojo;
 import base_urls.GoRestBaseUrl;
 import io.restassured.response.Response;
 import org.junit.Test;
